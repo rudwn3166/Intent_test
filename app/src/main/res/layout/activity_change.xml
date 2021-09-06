@@ -9,7 +9,7 @@
     tools:context=".Change_Activity">
 
     <EditText
-        android:id="@+id/newnicnameChange"
+        android:id="@+id/newnicknameChange"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
