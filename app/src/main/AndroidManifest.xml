@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Intent_test">
         <activity
+            android:name=".ChangeActivity"
+            android:exported="true" />
+        <activity
             android:name=".Change_Activity"
             android:exported="true" />
         <activity

@@ -8,15 +8,6 @@
     android:orientation="vertical"
     tools:context=".Change_Activity">
 
-    <EditText
-        android:id="@+id/newnicknameChange"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
 
-    <Button
-        android:id="@+id/changeOk"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="변경 완료"/>
 
 </LinearLayout>
